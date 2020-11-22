@@ -77,7 +77,7 @@ header {
     z-index: 1500;
 }
 
-.fa-times {
+.menu-toggle .fa-times {
     display: none;
 }
 
